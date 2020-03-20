@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Movies App</string>
+    <string name="movie_poster">Movie poster</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="add_to_favourite">Add to favourites</string>
+    <string name="remove_from_favourites">Remove from favourites</string>
+    <string name="item_main">Main</string>
+    <string name="item_favourite">Favourite</string>
+    <string name="launch_trailer" translatable="false">Launch trailer</string>
+</resources>
